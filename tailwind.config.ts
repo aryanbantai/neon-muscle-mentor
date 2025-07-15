@@ -61,7 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Fitness-specific colors
+				'neon-green': 'hsl(var(--neon-green))',
+				'electric-blue': 'hsl(var(--electric-blue))',
+				'dark-surface': 'hsl(var(--dark-surface))',
+				'darker-surface': 'hsl(var(--darker-surface))',
+				'gym-accent': 'hsl(var(--gym-accent))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
